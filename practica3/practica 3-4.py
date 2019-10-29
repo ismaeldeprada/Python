@@ -1,0 +1,5 @@
+n1 = int (input("introduce el primer  numero"))
+n2 = int (input("introduce el segundo numero"))
+n3 = int  (input("introduce el tercer numero"))
+r =  ((n1+n2+n3)/3)
+print("la media es ",r)
